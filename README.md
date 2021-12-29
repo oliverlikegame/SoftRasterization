@@ -3,4 +3,4 @@
 
 Mesh - .obj
 Texture - .bmp
-out - .bbm
+out - .ppm
