@@ -14,7 +14,7 @@ void pathTracingTest();
 
 int main(){
 
-    //rasterizationTest();
+    rasterizationTest();
     //pathTracingTest();
     std::cout<<"done \n";
 
